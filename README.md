@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aqsak1 - A Coding Enthusiast.
-- 👀 I’m interested in open source contribution and coding
+- 👀 I’m interested in open source contribution and coding. I know HTML CSS
 - 🌱 I’m currently learning java and Data structures and Algorithm.
 - 💞️ I'm a student who is passionate about learning new technologies.
 - 📫 Reach me through by github profile -aqsak1
